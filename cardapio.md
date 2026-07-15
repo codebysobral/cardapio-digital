@@ -4,4 +4,8 @@
 - Pizza de calabresa
 - Pizza Portuguesa
 
+*BEBIDAS*
+- Água Sem Gás
+- Água Com Gás
+
 
