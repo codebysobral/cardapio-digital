@@ -1,20 +1,21 @@
 # CARDAPIO DA PIZZARIA DO SÉRGIO
 
 ## PIZZAS
-- Pizza de calabresa
-- Pizza Portuguesa
+- Pizza de calabresa *R$ 45,00*
+- Pizza Portuguesa *R$ 45,00*
 
 ## BEBIDAS
-- Água Sem Gás
-- Água Com Gás
+- Água Sem Gás *R$ 4,00*
+- Água Com Gás *R$ 4,00*
 
 ## SOBREMESAS
-- Pudim
-- petit Gateau
+- Pudim *R$ 12,00*
+- petit Gateau *R$ 12,00*
 
 
 ## OPÇÕES VEGANAS
 
-- Pizza de Alface
-- Pizza de Brócolis
-- Pizza de Cenoura
+- Pizza de Alface *R$ 35,00*
+- Pizza de Brócolis *R$ 35,00*
+- Pizza de Cenoura *R$ 35,00*
+
