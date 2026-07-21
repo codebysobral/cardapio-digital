@@ -12,3 +12,9 @@
 - Pudim
 - petit Gateau
 
+
+## OPÇÕES VEGANAS
+
+- Pizza de Alface
+- Pizza de Brócolis
+- Pizza de Cenoura
