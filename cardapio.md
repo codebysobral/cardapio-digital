@@ -1,14 +1,14 @@
-#CARDAPIO DA PIZZARIA DO SÉRGIO
+# CARDAPIO DA PIZZARIA DO SÉRGIO
 
-*PIZZAS*
+## PIZZAS
 - Pizza de calabresa
 - Pizza Portuguesa
 
-*BEBIDAS*
+## BEBIDAS
 - Água Sem Gás
 - Água Com Gás
 
-*SOBREMESAS*
+## SOBREMESAS
 - Pudim
 - petit Gateau
 
