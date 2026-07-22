@@ -17,5 +17,5 @@
 
 - Pizza de Alface *R$ 35,00*
 - Pizza de Brócolis *R$ 35,00*
-- Pizza de Cenoura *R$ 35,00*
+- Pizza de Alface *R$ 35,00*
 
