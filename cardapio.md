@@ -6,7 +6,7 @@
 
 ## BEBIDAS
 - Água Sem Gás *R$ 4,00*
-- Água Com Gás *R$ 4,00*
+- Água Com Gás *R$ 3,50*
 
 ## SOBREMESAS
 - Pudim *R$ 12,00*
